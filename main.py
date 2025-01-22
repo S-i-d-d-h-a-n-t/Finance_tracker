@@ -12,6 +12,7 @@ def main_menu():
         print("4. Set Savings Goal")
         print("5. Visualize Spending")
         print("6. Exit")
+        print("-----------------------------------")
         
         choice = input("Choose an option: ")
 
